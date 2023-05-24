@@ -1,6 +1,6 @@
 [submodule "backend"]
 	path = backend
-	url = https://github.com/Ismox1440/pokecards-back.git
+	url = https://github.com/Ismox1440/Pokemon-Market-Back
 [submodule "frontend"]
 	path = frontend
-	url = https://github.com/Ismox1440/pokecards-front.git
+	url = https://github.com/Ismox1440/Pokemon-Market-Front
